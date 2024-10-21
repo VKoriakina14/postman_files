@@ -1,0 +1,22 @@
+[
+	{
+		"carBrandId":1,
+		"data":{
+			"name":"TestFirst",
+			"lastName":"TestFirst",
+			"email":"vkoriakina14+vkfddgffg@gmail.com",
+			"password":"Test!123",
+			"repeatPassword":"Test!123"
+		}
+	},
+	{
+		"carBrandId":2,
+		"data":{
+			"name":"TestSecond",
+			"lastName":"TestSecond",
+			"email":"vkoriakina14+vfedfsdkgfgf@gmail.com",
+			"password":"Test!123",
+			"repeatPassword":"Test!123"
+		}
+	}
+]
